@@ -45,7 +45,7 @@ There are seven days each month that have dates that end with the suffix -teenth
 
 **Sunday** RESTING DAY today, avoid external commitments
 
-  
+---
 
 ### **The date of month-teenth**
 
