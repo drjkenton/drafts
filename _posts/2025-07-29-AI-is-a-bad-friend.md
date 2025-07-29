@@ -96,16 +96,16 @@ Please let me know if you have any further questions or if there's anything else
 ========
 
 JMK: This is the list of URLs you provided in a section called "Sources and related content": 
-https://www.cigionline.org/articles/trust-but-verify-how-reagans-maxim-can-inform-international-ai-governance/  
-https://www.theclm.org/Magazine/articles/trust-but-always-verify/344  
-https://www.harvardbusiness.org/good-leadership-it-all-starts-with-trust/  
-https://extension.usu.edu/hru/blog/building-trust-in-relationships-guide-to-lasting-connection  
-https://clinifyhealth.com/building-trust-across-your-collaborative  
-https://uscpublicdiplomacy.org/blog/face-time-building-trust-international-affairs  
-https://www.testbytes.net/blog/verification-and-validation 
-https://www.mytpmg.com/blog/5-signs-of-healthy-communication-in-a-relationship/  
-https://authorservices.taylorandfrancis.com/publishing-your-research/peer-review/  
-https://rocketclicks.com/company-culture/trust-but-verify 
+- https://www.cigionline.org/articles/trust-but-verify-how-reagans-maxim-can-inform-international-ai-governance/  
+- https://www.theclm.org/Magazine/articles/trust-but-always-verify/344  
+- https://www.harvardbusiness.org/good-leadership-it-all-starts-with-trust/  
+- https://extension.usu.edu/hru/blog/building-trust-in-relationships-guide-to-lasting-connection  
+- https://clinifyhealth.com/building-trust-across-your-collaborative  
+- https://uscpublicdiplomacy.org/blog/face-time-building-trust-international-affairs  
+- https://www.testbytes.net/blog/verification-and-validation 
+- https://www.mytpmg.com/blog/5-signs-of-healthy-communication-in-a-relationship/  
+- https://authorservices.taylorandfrancis.com/publishing-your-research/peer-review/  
+- https://rocketclicks.com/company-culture/trust-but-verify 
 
 ========
 
