@@ -2,7 +2,7 @@
 source:
 tags:
 alias:
-date: 2025-07-29
+date: 2025-07-29 01:00:00
 modified: 2025-07-29T09:59:21-04:00
 title: "Dr. Kenton Wants to Say:  AI is a Bad Friend"
 layout: post
@@ -17,7 +17,19 @@ comments: true
 
 
 ---
-[Quick Commentary]
+
+In this essay I describe an experience I had with Google Gemini.
+
+1. I asked Gemini to write a 500 word essay, to include a list of URLs that it used as resources.
+2. Gemini wrote the essay, but did not include a list of URLs. Instead it created a section called "Sources and Related Content."
+3. Gemini disagreed that it created a section called "Sources and Related Content" that included URLs to websites. In fact, Gemini suggested that its essay was written based on "common knowlkedge" and had no need to include and URLs.
+4. I copy and pasted the list of URLs that it provided.
+5. Gemini acknowledged all of its errors and promised to do better in the future.
+6. I then asked for some clarifying questions that I can ask to ensure that I would avoid any obvious shortcomings in Gemini's capabilities.
+7. Gemini helped me by pointing out its limitations in remembering past queries, how to categorize its responses in the future, how to werite prompts that will avoid some pitfalls, incluiding how to combine requests, and how to manage my expectations
+8. I then asked if Gemini can access library databases (it acnnot)
+9. Gemini gave me some quick pointers about how it can be helpful in a generic research scenario.
+
 
 
 ---
@@ -201,53 +213,6 @@ To use library databases effectively:
 
 **Disclaimer:** I am an AI chatbot and cannot provide medical or professional advice. The information I provide should not be considered a substitute for professional guidance from qualified healthcare providers or researchers.
 I hope this clarifies my limitations regarding access to library databases.
-
-========
-
-## To sum up:
-
-1. I asked Gemini to write a 500 word essay, to include a list of URLs that it used as resources.
-2. Gemini wrote the essay, but did not include a list of URLs. Instead it created a section called "Sources and Related Content."
-3. Gemini disagreed that it created a section called "Sources and Related Content" that included URLs to websites. In fact, Gemini suggested that its essay was written based on "common knowlkedge" and had no need to include and URLs.
-4. I copy and pasted the list of URLs that it provided.
-5. Gemini acknowledged all of its errors and promised to do better in the future.
-
----
-
-
-
----
-NOTES:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsAu-nOg3Tw?si=XlJtQBG21fl9byV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Minor Threat - *Straight Edge*
-
-(45 seconds)
-I'm a person just like you <br />
-But I've got better things to do<br />
-Than sit around and fuck my head<br />
-Hang out with the living dead<br />
-Snort white shit up my nose<br />
-Pass out at the shows<br />
-I don't even think about speed<br />
-That's something I just don't need<br />
-I've gone straight edge<br />
-I'm a person just like you<br />
-But I've got better things to do<br />
-Than sit around and smoke dope<br />
-Because I know that I can cope<br />
-Laugh at the thought of eating ludes<br />
-Laugh at the thought of sniffing glue<br />
-Always gonna keep in touch<br />
-Never want to use a crutch<br />
-I've gone straight edge<br />
-I've gone straight edge<br />
-I've gone straight edge<br />
-I've gone straight edge
----
-
-[My own brush with Hardcore Punk and specifically Swiss Hardore punk is another story. Maybe someday.]
 
 ---
 
