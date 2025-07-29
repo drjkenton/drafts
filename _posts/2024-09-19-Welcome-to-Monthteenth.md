@@ -31,37 +31,37 @@ There are seven days each month that have dates that end with the suffix -teenth
 
 ### **The weekdays of month-teenth**
 
-Monday Be kind to yourself today
+**Monday** Be kind to yourself today
 
-Tuesday Be kind to others today
+**Tuesday** Be kind to others today
 
-Wednesday Do something you like, what is something you like, but havent done in a while that you can do before the next -teenth
+**Wednesday** Do something you like, what is something you like, but havent done in a while that you can do before the next -teenth
 
-Thursday Branch out / Try something new, what new thing would you like to try before the next -teenth?
+**Thursday** Branch out / Try something new, what new thing would you like to try before the next -teenth?
 
-Friday Reaching out to friends, setup a meeting or activity before the next -teenth
+**Friday** Reaching out to friends, setup a meeting or activity before the next -teenth
 
-Saturday Celebratory dinner today
+**Saturday** Celebratory dinner today
 
-Sunday RESTING DAY today, avoid external commitments
+**Sunday** RESTING DAY today, avoid external commitments
 
   
 
 ### **The date of month-teenth**
 
-13th Are your personal management systems serving you? Review them and decide.
+**13th** Are your personal management systems serving you? Review them and decide.
 
-14th Which personal management system would you like to focus on before the next -teenth?
+**14th** Which personal management system would you like to focus on before the next -teenth?
 
-15th Reflecting on the month so far (prior 30 days)
+**15th** Reflecting on the month so far (prior 30 days)
 
-16th Look within / what physical and spiritual needs are as yet unmet?
+**16th** Look within / what physical and spiritual needs are as yet unmet?
 
-17th Any important planning for upcoming trips or activities?
+**17th** Any important planning for upcoming trips or activities?
 
-18th Choose an intention for the upcoming 30 days
+**18th** Choose an intention for the upcoming 30 days
 
-19th Planning for the next month (30 days out)
+**19th** Planning for the next month (30 days out)
 
 
 
