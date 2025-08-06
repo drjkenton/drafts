@@ -23,6 +23,7 @@ In an academic environment, there are often opportunities to "advance" into an a
 
 This essay is intended to capture some potential reasons why/how a person might desire to return to the faculty, and some of the challenges that they face one they return to the teaching/ scholarship /service triumvirate.
 
+Maybe the issue is that former admin are less willing to begin again at the beginning?
 
 ---
 
